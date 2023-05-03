@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Made using Next, Typescript Prisma. Practicing flex and grid boxes for css.
 
 ## Getting Started
 
