@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# prisma creds
+prisma/seed.ts
+
 # testing
 /coverage
 
